@@ -3,8 +3,8 @@
 module.exports = {
   TOKEN: "",
   language: "en",
-  ownerID: ["1004206704994566164", ""], 
-  mongodbUri : "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
+  ownerID: ["750124787669532693", ""], 
+  mongodbUri : "mongodb+srv://M7SX:M7SXBOT@cluster0.fnrzvvq.mongodb.net/?appName=Cluster0",
   spotifyClientId : "d92baed9605a45a39ed7c2a2d960b1c1",
   spotifyClientSecret : "e9b29f6739de4315bc03b6d8a8e93b03",
   setupFilePath: './commands/setup.json',
@@ -13,7 +13,7 @@ module.exports = {
   activityName: "YouTube Music", 
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
   SupportServer: "https://discord.gg/xQF9f9yUEM",
-  embedTimeout: 5,
+  embedTimeout: 500,
   showProgressBar: false,  // Show progress bar in track embed
   showVisualizer: false,  // Show visualizer on music card (disabled for low-memory optimization)
   generateSongCard: true,  // custom song card image, if false uses thumbnail
