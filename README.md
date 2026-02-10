@@ -2,7 +2,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/GlaceYT/PrimeMusic-Lavalink.git
+git clone https://github.com/cspro69/MUSTYYYY.git
 cd PrimeMusic-Lavalink
 ```
 
