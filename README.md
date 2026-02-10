@@ -223,12 +223,6 @@ PrimeMusic-Lavalink/
 
 ---
 
-## 🤝 Support
-
-- **Discord Server**: [Join Support Server](https://discord.gg/xQF9f9yUEM)
-- **Issues**: [GitHub Issues](https://github.com/GlaceYT/PrimeMusic-Lavalink/issues)
-- **Author**: GlaceYT
-
 ---
 
 ## 📝 License
