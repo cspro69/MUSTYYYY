@@ -70,7 +70,7 @@ module.exports = {
             },
             footer: {
                 version: "**Versión 1.4** • Bot de Música Prime",
-                developer: "Desarrollado por GlaceYT / https://GlaceYT.com"
+                developer: "Desarrollado por LOMFAO"
             },
             selectMenu: {
                 placeholder: "📂 Selecciona una categoría para ver los comandos...",
@@ -103,7 +103,7 @@ module.exports = {
             },
             footer: {
                 version: "**Versión 1.4** • Bot de Música Prime",
-                developer: "Desarrollado por GlaceYT / https://GlaceYT.com"
+                developer: "Desarrollado por LOMFAO"
             },
             buttons: {
                 backToMain: "🏠 Volver al Menú Principal",
@@ -176,7 +176,7 @@ module.exports = {
         },
         footer: {
             version: "**Versión 1.4** • Bot de Música Prime",
-            developer: "Desarrollado por GlaceYT / https://GlaceYT.com"
+            developer: "Desarrollado por LOMFAO / https://LOMFAO.com"
         },
         errors: {
             title: "## ❌ Error",
@@ -192,7 +192,7 @@ module.exports = {
         header: {
             title: "# 📊 Estadísticas del Bot",
             botName: "**{botName}** - Bot de Música Prime",
-            developer: "Desarrollado por GlaceYT / https://GlaceYT.com"
+            developer: "Desarrollado por LOMFAO / https://LOMFAO.com"
         },
         botInfo: {
             title: "## 📊 Información del Bot",
@@ -229,7 +229,7 @@ module.exports = {
         },
         footer: {
             version: "**Versión 1.4** • Bot de Música Prime",
-            developer: "Desarrollado por GlaceYT / https://GlaceYT.com"
+            developer: "Desarrollado por LOMFAO / https://LOMFAO.com"
         },
         errors: {
             title: "## ❌ Error",
@@ -272,7 +272,7 @@ module.exports = {
         },
         footer: {
             version: "**Versión 1.4** • Bot de Música Prime",
-            developer: "Desarrollado por GlaceYT / https://GlaceYT.com"
+            developer: "Desarrollado por LOMFAO / https://LOMFAO.com"
         },
         buttons: {
             supportServer: "Servidor de Soporte",
