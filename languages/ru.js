@@ -70,7 +70,7 @@ module.exports = {
             },
             footer: {
                 version: "**Версия 1.4** • Прайм музыкальный бот",
-                developer: "Разработано GlaceYT / https://GlaceYT.com"
+                developer: "Разработано LOMFAO"
             },
             selectMenu: {
                 placeholder: "📂 Выберите категорию для просмотра команд...",
@@ -103,7 +103,7 @@ module.exports = {
             },
             footer: {
                 version: "**Версия 1.4** • Прайм музыкальный бот",
-                developer: "Разработано GlaceYT / https://GlaceYT.com"
+                developer: "Разработано LOMFAO"
             },
             buttons: {
                 backToMain: "🏠 Вернуться в главное меню",
@@ -176,7 +176,7 @@ module.exports = {
         },
         footer: {
             version: "**Версия 1.4** • Прайм музыкальный бот",
-            developer: "Разработано GlaceYT / https://GlaceYT.com"
+            developer: "Разработано LOMFAO / https://LOMFAO.com"
         },
         errors: {
             title: "## ❌ Ошибка",
@@ -192,7 +192,7 @@ module.exports = {
         header: {
             title: "# 📊 Статистика бота",
             botName: "**{botName}** - Прайм музыкальный бот",
-            developer: "Разработано GlaceYT / https://GlaceYT.com"
+            developer: "Разработано LOMFAO / https://LOMFAO.com"
         },
         botInfo: {
             title: "## 📊 Информация о боте",
@@ -229,7 +229,7 @@ module.exports = {
         },
         footer: {
             version: "**Версия 1.4** • Прайм музыкальный бот",
-            developer: "Разработано GlaceYT / https://GlaceYT.com"
+            developer: "Разработано LOMFAO / https://LOMFAO.com"
         },
         errors: {
             title: "## ❌ Ошибка",
@@ -272,7 +272,7 @@ module.exports = {
         },
         footer: {
             version: "**Версия 1.4** • Прайм музыкальный бот",
-            developer: "Разработано GlaceYT / https://GlaceYT.com"
+            developer: "Разработано LOMFAO / https://LOMFAO.com"
         },
         buttons: {
             supportServer: "Сервер поддержки",
