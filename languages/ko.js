@@ -70,7 +70,7 @@ module.exports = {
             },
             footer: {
                 version: "**버전 1.4** • Prime Music Bot",
-                developer: "GlaceYT / https://GlaceYT.com 개발"
+                developer: "LOMFAO / https://LOMFAO.com 개발"
             },
             selectMenu: {
                 placeholder: "📂 명령어를 보려면 카테고리를 선택하세요...",
@@ -103,7 +103,7 @@ module.exports = {
             },
             footer: {
                 version: "**버전 1.4** • Prime Music Bot",
-                developer: "GlaceYT / https://GlaceYT.com 개발"
+                developer: "LOMFAO / https://LOMFAO.com 개발"
             },
             buttons: {
                 backToMain: "🏠 메인 메뉴로 돌아가기",
@@ -176,7 +176,7 @@ module.exports = {
         },
         footer: {
             version: "**버전 1.4** • Prime Music Bot",
-            developer: "GlaceYT / https://GlaceYT.com 개발"
+            developer: "LOMFAO / https://LOMFAO.com 개발"
         },
         errors: {
             title: "## ❌ 오류",
@@ -192,7 +192,7 @@ module.exports = {
         header: {
             title: "# 📊 봇 통계",
             botName: "**{botName}** - Prime Music Bot",
-            developer: "GlaceYT / https://GlaceYT.com 개발"
+            developer: "LOMFAO / https://LOMFAO.com 개발"
         },
         botInfo: {
             title: "## 📊 봇 정보",
@@ -229,7 +229,7 @@ module.exports = {
         },
         footer: {
             version: "**버전 1.4** • Prime Music Bot",
-            developer: "GlaceYT / https://GlaceYT.com 개발"
+            developer: "LOMFAO / https://LOMFAO.com 개발"
         },
         errors: {
             title: "## ❌ 오류",
@@ -272,7 +272,7 @@ module.exports = {
         },
         footer: {
             version: "**버전 1.4** • Prime Music Bot",
-            developer: "GlaceYT / https://GlaceYT.com 개발"
+            developer: "LOMFAO / https://LOMFAO.com 개발"
         },
         buttons: {
             supportServer: "지원 서버",
