@@ -70,7 +70,7 @@ module.exports = {
             },
             footer: {
                 version: "**Version 1.4** • Bot Musical Prime",
-                developer: "Développé par GlaceYT / https://GlaceYT.com"
+                developer: "Développé par LOMFAO"
             },
             selectMenu: {
                 placeholder: "📂 Sélectionner une catégorie pour voir les commandes...",
@@ -103,7 +103,7 @@ module.exports = {
             },
             footer: {
                 version: "**Version 1.4** • Bot Musical Prime",
-                developer: "Développé par GlaceYT / https://GlaceYT.com"
+                developer: "Développé par LOMFAO"
             },
             buttons: {
                 backToMain: "🏠 Retour au Menu Principal",
@@ -176,7 +176,7 @@ module.exports = {
         },
         footer: {
             version: "**Version 1.4** • Bot Musical Prime",
-            developer: "Développé par GlaceYT / https://GlaceYT.com"
+            developer: "Développé par LOMFAO / https://LOMFAO.com"
         },
         errors: {
             title: "## ❌ Erreur",
@@ -192,7 +192,7 @@ module.exports = {
         header: {
             title: "# 📊 Statistiques du Bot",
             botName: "**{botName}** - Bot Musical Prime",
-            developer: "Développé par GlaceYT / https://GlaceYT.com"
+            developer: "Développé par LOMFAO / https://LOMFAO.com"
         },
         botInfo: {
             title: "## 📊 Informations du Bot",
@@ -229,7 +229,7 @@ module.exports = {
         },
         footer: {
             version: "**Version 1.4** • Bot Musical Prime",
-            developer: "Développé par GlaceYT / https://GlaceYT.com"
+            developer: "Développé par LOMFAO / https://LOMFAO.com"
         },
         errors: {
             title: "## ❌ Erreur",
@@ -272,7 +272,7 @@ module.exports = {
         },
         footer: {
             version: "**Version 1.4** • Bot Musical Prime",
-            developer: "Développé par GlaceYT / https://GlaceYT.com"
+            developer: "Développé par LOMFAO / https://LOMFAO.com"
         },
         buttons: {
             supportServer: "Serveur de Support",
