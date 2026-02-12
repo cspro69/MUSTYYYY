@@ -13,7 +13,7 @@ module.exports = {
   activityName: "YouTube Music", 
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
   SupportServer: "https://discord.gg/xQF9f9yUEM",
-  embedTimeout: 500,
+  embedTimeout: 0,
   showProgressBar: false,  // Show progress bar in track embed
   showVisualizer: false,  // Show visualizer on music card (disabled for low-memory optimization)
   generateSongCard: true,  // custom song card image, if false uses thumbnail
